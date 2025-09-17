@@ -15,6 +15,3 @@ Aqui compartilho meus projetos, aprendizados e ideias. 🚀
 - SQL / MySQL
 - Git & GitHub
 
-## 📌 Objetivo
-Aprender cada vez mais sobre programação e criar projetos que possam ajudar outras pessoas.
-
