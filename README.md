@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👩‍💻 Isabely Leite
 
-<!--
-**isabelyleite/isabelyleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é **Isabely**, sou estudante de tecnologia e apaixonada por desenvolvimento web.  
+Aqui compartilho meus projetos, aprendizados e ideias. 🚀
 
-Here are some ideas to get you started:
+## 📞 Contatos
+- ✉️ Email: seuemail@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- 🐙 GitHub: [github.com/isabelyleite](https://github.com/isabelyleite)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que conheço
+- HTML5
+- CSS3
+- JavaScript
+- SQL / MySQL
+- Git & GitHub
+
+## 📌 Objetivo
+Aprender cada vez mais sobre programação e criar projetos que possam ajudar outras pessoas.
+
