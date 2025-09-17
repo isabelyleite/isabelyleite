@@ -1,6 +1,6 @@
 # 👩‍💻 Isabely Leite
 
-Olá! Meu nome é **Isabely**, sou estudante de tecnologia e apaixonada por desenvolvimento web.  
+Olá, sou estudante de tecnologia e apaixonada por desenvolvimento web.  
 Aqui compartilho meus projetos, aprendizados e ideias. 🚀
 
 ## 📞 Contatos
